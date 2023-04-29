@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+## I am....
+
+ - living in Seoul, Republic of Korea
+ - a student of Yeoksam Middle School (9th grade)
+ - He/Him
 
 <!--
 **yeonho1/yeonho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
